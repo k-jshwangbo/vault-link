@@ -1,0 +1,72 @@
+# ::::::::::::::::::::::::::::::::::::::::::::::::::
+# Visual Studio / .NET
+# ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+*.dll
+*.log
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+
+# ::::::::::::::::::::::::::::::::::::::::::::::::::
+# Windows specific
+# ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Thumbs.db
+Desktop.ini
+
+# ::::::::::::::::::::::::::::::::::::::::::::::::::
+# Android / Java
+# ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Gradle
+.gradle/
+build/
+
+# Local config
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# APK / AAB
+*.apk
+*.aab
+
+# Logs
+*.log
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore
+*.jks
+*.keystore
+
+# ::::::::::::::::::::::::::::::::::::::::::::::::::
+# General
+# ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+.env
+*.tmp
+*.bak
+*.swp
+
+# OS
+.DS_Store
